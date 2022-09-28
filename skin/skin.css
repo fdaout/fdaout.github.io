@@ -1,0 +1,21 @@
+.bkBase.bkExtra {
+    box-shadow: none;
+}
+:root{
+	--fontSize: 0.8em;
+	--fontStyle: sans-serif;
+	--rootBG: #f0eeeb;
+  --maxWidth: 1280px;
+  --contentBG:#fff;
+	--contentFG: black;
+  --titleColor: #74515f;
+	--borderColor: #e0dcd8;
+  --borderWidth: 8px;
+	--borderRadius: 0em;
+	--accentColor: #74515f;
+	--accentColorLight: #74515fb8;
+  --emphasisBG: #f0eeeb;
+  --emphasisRadius: 0.2em;
+  --extraBG: transparent;
+  --extraRadius: 0em;
+}
